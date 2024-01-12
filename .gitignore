@@ -1,0 +1,21 @@
+# Compiled files
+/target/
+Cargo.lock
+
+# Generated documentation
+/target/doc/
+
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ Rust
+.idea/
+*.iml
+
+# Windows
+Thumbs.db
+desktop.ini
+
